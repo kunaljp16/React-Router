@@ -8,4 +8,4 @@ const CommentItem = (props) => {
   );
 };
 
-export default CommentItem;
+export default CommentCommentItemItem;
